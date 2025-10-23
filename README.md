@@ -18,36 +18,36 @@ If you find this repository helpful, please give it a ⭐️ **Star**!
 
 ## Learning Principles
 
-- Project-driven, open learning, teaching is the best way to learn
-- Pursue simplicity, keep up with the times, human-centered
-- Collaborate fully with AI
-- Gain inspiration and improve aesthetics
+- Learn through projects, practice openly, and teach to reinforce understanding
+- Keep things simple, stay up-to-date, and focus on human needs
+- Collaborate effectively with AI
+- Seek inspiration and cultivate aesthetic sensibility
 
 ## My Understanding
 
 - Project-driven  
-  Start from complete projects and learn through practice, rather than focusing solely on syntax or tutorials.
+  Focus on building complete projects to learn by doing, rather than just following syntax or tutorials.
 
-- Open learning, teaching and learning from each other  
-  Be active in related topics, communities, and websites—write blogs, create tutorials, and share your process.
+- Open learning and teaching each other  
+  Actively participate in communities, discussions, and platforms—write blogs, create tutorials, and share your process publicly.
 
 - Pursue simplicity  
-  Learning ultimately leads to the stage of "seeing the mountain as the mountain," returning to the essence.
+  True mastery comes when complexity resolves into clarity—seeing the essence in what you build.
 
-- Keep up with the times  
-  Keep your tech stack updated to stay aligned with frontend development trends.
+- Stay current  
+  Continuously update your tech stack to keep pace with the evolving frontend landscape.
 
 - Human-centered  
-  Too much code serves business purposes while ignoring human needs.  
-  At least in personal learning and development, remember that technology should serve people.
+  Avoid letting code serve only business goals while neglecting people.  
+  In personal learning and development, always ensure technology serves human needs.
 
-- Gain inspiration  
-  Seek and follow mentors who inspire you.  
-  Inspiration is not about _answering existing questions_, but _helping people ask questions they hadn’t thought of before_.
+- Seek inspiration  
+  Follow mentors and peers who spark new ideas.  
+  Inspiration is not about answering existing questions, but about enabling you to ask questions you hadn’t considered before.
 
-- Improve aesthetics  
-  In the AI era, the cost-effectiveness of productivity, single skills, or work experience decreases year by year.  
-  Enhancing aesthetic taste is becoming a key factor in personal differentiation.
+- Cultivate aesthetics  
+  In the AI era, productivity, narrow skills, or experience alone become less differentiating over time.  
+  Developing aesthetic taste is increasingly key to standing out personally and professionally.
 
 ## My Practice Milestones
 
