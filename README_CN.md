@@ -53,7 +53,17 @@
 
 ## 快照
 
-(方便之后快速回来回顾或复盘)
+(方便之后快速回来回顾)
+
+<img src="./images/0_vscode.png" alt="VS code Screenshot" width="400">
+
+工具: [VS Code](https://code.visualstudio.com/), [Markdown](https://www.markdownguide.org/basic-syntax/)
+插件:
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+<img src="./images/0_browser.png" alt="Browser Screenshot" width="400">
+
+[在 Edge 浏览器中调试](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/)
 
 ## 🔗 链接（尽可能少）
 
