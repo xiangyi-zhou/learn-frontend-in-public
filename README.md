@@ -57,14 +57,14 @@ If you find this repository helpful, please give it a ⭐️ **Star**!
 
 (For quickly coming back to review later)
 
-<img src="./images/0_vscode.png" alt="VS code Screenshot" width="400">
+<img src="./images/vscode screenshot.png" alt="VS code Screenshot" width="400">
 
 Tools: [VS Code](https://code.visualstudio.com/), [Markdown](https://www.markdownguide.org/basic-syntax/)
 
 Extensions:
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-<img src="./images/0_browser.png" alt="Browser Screenshot" width="400">
+<img src="./images/browser screenshot.png" alt="Browser Screenshot" width="400">
 
 [Debug in Edge](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/)
 

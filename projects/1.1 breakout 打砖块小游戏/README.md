@@ -2,7 +2,7 @@
 
 To practice **HTML, CSS, and JavaScript** by implementing a simple Breakout-style game.
 
-<img src="../../images/1.1_breakout.png" alt="Breakout Screenshot" width="400">
+<img src="./images/breakout screenshot.png" alt="Breakout Screenshot" width="400">
 
 [Breakout Game - wiki](<https://en.wikipedia.org/wiki/Breakout_(video_game)>)
 
