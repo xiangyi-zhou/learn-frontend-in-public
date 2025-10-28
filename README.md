@@ -57,16 +57,27 @@ If you find this repository helpful, please give it a ⭐️ **Star**!
 
 (For quickly coming back to review later)
 
-<img src="./images/vscode screenshot.png" alt="VS code Screenshot" width="400">
+### Dev Tool
 
 Tools: [VS Code](https://code.visualstudio.com/), [Markdown](https://www.markdownguide.org/basic-syntax/)
+<img src="./images/vscode screenshot.png" alt="VS code Screenshot" width="400">
 
 Extensions:
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer),
+[Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)  
+<img src="./images/comment-translate-screenshot.png" alt="comment-translate-screenshot" width="300">
+
+### Debug
+
+[Debug in Browser (Edge)](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/)
 
 <img src="./images/browser screenshot.png" alt="Browser Screenshot" width="400">
 
-[Debug in Edge](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/)
+### Playground
+
+[CodePen——A playground for HTML, CSS, and JS](https://codepen.io/)
+
+<img src="./images/codepen-screenshot.png" alt="codepen screenshot" width="400">
 
 ## 🔗 Links (Keep it minimal)
 

@@ -57,15 +57,27 @@
 
 (方便之后快速回来回顾)
 
+### 开发工具
+
+主要工具: [VS Code](https://code.visualstudio.com/), [Markdown](https://www.markdownguide.org/basic-syntax/)
 <img src="./images/vscode screenshot.png" alt="VS code Screenshot" width="400">
 
-工具: [VS Code](https://code.visualstudio.com/), [Markdown](https://www.markdownguide.org/basic-syntax/)
-插件:
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+VScode 插件：
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer),
+[Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)  
+<img src="./images/comment-translate-screenshot.png" alt="comment-translate-screenshot" width="300">
+
+### Debug 调试
+
+[在 Edge 浏览器中调试](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/)
 
 <img src="./images/browser screenshot.png" alt="Browser Screenshot" width="400">
 
-[在 Edge 浏览器中调试](https://learn.microsoft.com/en-us/microsoft-edge/devtools/javascript/)
+### Playground
+
+[CodePen——交互式练习 HTML, CSS 和 JS](https://codepen.io/)
+
+<img src="./images/codepen-screenshot.png" alt="codepen screenshot" width="400">
 
 ## 🔗 链接（尽可能少）
 
