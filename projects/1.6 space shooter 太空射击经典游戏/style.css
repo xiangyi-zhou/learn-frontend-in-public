@@ -1,0 +1,56 @@
+body {
+  background: black;
+  color: white;
+  font-family: "Press Start 2P", monospace;
+  text-align: center;
+  margin: 0;
+  overflow: hidden;
+}
+
+.screen {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(circle at center, #000 70%, #111 100%);
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  background: #0ff;
+  border: none;
+  padding: 12px 20px;
+  margin-top: 16px;
+  font-size: 14px;
+  cursor: pointer;
+  color: #000;
+  border-radius: 6px;
+  transition: transform 0.2s;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+#hud {
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 14px;
+  color: #0ff;
+  text-shadow: 0 0 6px #0ff;
+  z-index: 10;
+}
+
+canvas {
+  background: black;
+  border: 1px solid #0ff;
+  box-shadow: 0 0 20px #0ff;
+}
