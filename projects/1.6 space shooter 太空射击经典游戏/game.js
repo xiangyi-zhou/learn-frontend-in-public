@@ -66,7 +66,7 @@ function drawBullets() {
 }
 
 function drawEnemies() {
-  ctx.fillStyle = "#f00";
+  ctx.fillStyle = "rgba(244, 43, 43, 0.77)";
   enemies.forEach((e) => ctx.fillRect(e.x, e.y, e.w, e.h));
 }
 
