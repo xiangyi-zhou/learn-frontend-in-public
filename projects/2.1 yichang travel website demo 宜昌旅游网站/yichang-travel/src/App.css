@@ -1,0 +1,26 @@
+.slick-arrow {
+  background-color: #b99b6b;
+  height: 5vh;
+}
+.slick-next {
+  font-size: 40px;
+  margin-left: 740px;
+}
+.slick-arrow:hover {
+  background-color: #b99b6b;
+}
+.slick-dots {
+  color: #b99b6b;
+  font-size: 40px;
+}
+.slick-dots li {
+  display: none;
+}
+.active-modal {
+  overflow-y: hidden;
+}
+@media screen and (max-width: 368px) {
+  .slick-dots {
+    margin-top: 1000px;
+  }
+}

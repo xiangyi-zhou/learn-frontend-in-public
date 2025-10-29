@@ -1,0 +1,70 @@
+.place {
+  padding-top: 100px;
+  height: auto;
+}
+
+.row1 {
+  padding-top: 50px;
+  margin: auto;
+  margin-left: 20px;
+}
+@media screen and (max-width: 1118px) {
+  .card {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .card {
+    margin-right: 0;
+    margin-bottom: 20px;
+    border-radius: 0;
+    border: none;
+  }
+}
+.card:hover {
+  box-shadow: -3px 12px 18px -1px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+}
+.card:hover .h1 {
+  color: #b99b6b;
+}
+
+.icon {
+  color: #b99b6b;
+  margin-top: 4px;
+}
+.iconmain {
+  display: flex;
+  flex-direction: row;
+}
+.clock {
+  margin-left: 45px;
+  margin-top: 3px;
+}
+.Img {
+  position: relative;
+}
+.dollers {
+  position: absolute;
+  z-index: 2;
+  background-color: #b99b6b;
+  color: white;
+  font-size: 20px;
+  width: 76px;
+  align-items: center;
+  text-align: center;
+  margin: 1rem;
+  border-radius: 5px;
+}
+.p {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
