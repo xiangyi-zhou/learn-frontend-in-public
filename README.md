@@ -16,55 +16,102 @@ If you find this repository helpful, please give it a ⭐️ **Star**!
 
 [What are Fork and Star?](https://github.com/orgs/community/discussions/168153)
 
-## Learning Principles
+<details>
+<summary>Learning Principles</summary>
 
 - Learn through projects, practice openly, and teach to reinforce understanding
 - Keep things simple, stay up-to-date, and focus on human needs
 - Collaborate effectively with AI
 - Seek inspiration and cultivate aesthetic sensibility
 
-## My Understanding
+</details>
 
-- Project-driven  
+<details>
+<summary>My Understanding</summary>
+
+- **Project-driven**  
   Focus on building complete projects to learn by doing, rather than just following syntax or tutorials.
 
-- Open learning and teaching each other  
+- **Open learning and teaching each other**  
   Actively participate in communities, discussions, and platforms—write blogs, create tutorials, and share your process publicly.
 
-- Pursue simplicity  
+- **Pursue simplicity**  
   True mastery comes when complexity resolves into clarity—seeing the essence in what you build.
 
-- Stay current  
+- **Stay current**  
   Continuously update your tech stack to keep pace with the evolving frontend landscape.
 
-- Human-centered  
+- **Human-centered**  
   Avoid letting code serve only business goals while neglecting people.  
   In personal learning and development, always ensure technology serves human needs.
 
-- Seek inspiration  
+- **Seek inspiration**  
   Follow mentors and peers who spark new ideas.  
   Inspiration is not about answering existing questions, but about enabling you to ask questions you hadn’t considered before.
 
-- Cultivate aesthetics  
+- **Cultivate aesthetics**  
   In the AI era, productivity, narrow skills, or experience alone become less differentiating over time.  
   Developing aesthetic taste is increasingly key to standing out personally and professionally.
 
-## My Practice Milestones
+</details>
 
-2025-10-24 - created this repo and wrote the frist version of README.md
+## Project Milestones
+
+2025-10-29 - Completed projects 1.1–1.6, starting Stage 2: Using frameworks and components
+
+2025-10-24 - Created this repo and wrote the first version of README.md
 
 ## Snapshots
 
-(For quickly coming back to review later)
+(For quickly reviewing later)
+
+### Project Review
+
+<details>
+<summary>Projects 1.1 - 1.6: HTML + CSS + JS only</summary>
+
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+
+  <div style="flex: 0 0 30%; max-width: 30%; text-align:center;">
+    <img src="./projects/1.1 breakout 打砖块小游戏/images/breakout screenshot.png" alt="project 1.1 screenshot" style="width:100%; height:auto;">
+    <p>Project 1.1</p>
+  </div>
+
+  <div style="flex: 0 0 30%; max-width: 30%; text-align:center;">
+    <img src="./projects/1.2 profile website for fun 章鱼哥的个人网站/images/screenshot1.png" alt="project 1.2 screenshot" style="width:100%; height:auto;">
+    <p>Project 1.2</p>
+  </div>
+
+  <div style="flex: 0 0 30%; max-width: 30%; text-align:center;">
+    <img src="./projects/1.3 to do list 任务管理器/images/screenshot.png" alt="project 1.3 screenshot" style="width:100%; height:auto;">
+    <p>Project 1.3</p>
+  </div>
+
+  <div style="flex: 0 0 30%; max-width: 30%; text-align:center;">
+    <img src="./projects/1.4 css practice collection CSS练习/images/screenshot.png" alt="project 1.4 screenshot" style="width:100%; height:auto;">
+    <p>Project 1.4</p>
+  </div>
+
+  <div style="flex: 0 0 30%; max-width: 30%; text-align:center;">
+    <img src="./projects/1.6 space shooter 太空射击经典游戏/images/image.png" alt="project 1.6 screenshot" style="width:100%; height:auto;">
+    <p>Project 1.6</p>
+  </div>
+
+</div>
+
+</details>
 
 ### Dev Tool
 
 Tools: [VS Code](https://code.visualstudio.com/), [Markdown](https://www.markdownguide.org/basic-syntax/)
+
 <img src="./images/vscode screenshot.png" alt="VS code Screenshot" width="400">
 
-Extensions:
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer),
-[Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)  
+Extensions:  
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode),  
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer),  
+[Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)
+
 <img src="./images/comment-translate-screenshot.png" alt="comment-translate-screenshot" width="300">
 
 ### Debug
@@ -75,36 +122,30 @@ Extensions:
 
 ### Playground
 
-[CodePen——A playground for HTML, CSS, and JS](https://codepen.io/)
+[CodePen — Interactive playground for HTML, CSS, and JS](https://codepen.io/)
 
 <img src="./images/codepen-screenshot.png" alt="codepen screenshot" width="400">
 
 ## 🔗 Links (Keep it minimal)
 
-- Best Documentation
+**Best Documentation**
 
-  - [MDN Web Docs (HTML / CSS / JS)](https://developer.mozilla.org/)
-  - [React Official Documentation](https://react.dev/)
-  - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [MDN Web Docs (HTML / CSS / JS)](https://developer.mozilla.org/)
+- [React Official Documentation](https://react.dev/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
-- Examples of Open Learning  
-  (Additional example links can be added)
+**AI Assistants**
 
-- Project Ideas  
-  (Record inspirations and directions for practice)
+- [ChatGPT](https://chatgpt.com/)
 
-- AI Assistants
+**Sources of Inspiration**
 
-  - [ChatGPT](https://chatgpt.com/)
+- [Sharyap](https://www.sharyap.com/) — Illustrations, web design, YouTuber
+- [Wayback Machine](https://web.archive.org/) — Archive of past websites
+- [Ang’s Corner](https://angs-corner.nekoweb.org/) — Journal-style independent site
 
-- Sources of Inspiration
+**Improving Aesthetics**
 
-  - [Sharyap](https://www.sharyap.com/) — Illustrations, web design, YouTuber with design videos
-  - [Wayback Machine](https://web.archive.org/) — Archive of past website pages
-  - [Ang’s Corner](https://angs-corner.nekoweb.org/) — Journal-style, super cool independent website
-
-- Improving Aesthetics
-
-  - [Google Material 3 Design Framework](https://m3.material.io/get-started) — Bold color design
-  - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-  - [Chinese Copywriting & Typesetting Guide](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
+- [Google Material 3 Design Framework](https://m3.material.io/get-started) — Bold color design
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Chinese Copywriting & Typesetting Guide](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
