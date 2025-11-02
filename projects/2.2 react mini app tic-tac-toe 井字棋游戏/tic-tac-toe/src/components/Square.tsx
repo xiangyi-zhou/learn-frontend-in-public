@@ -1,6 +1,5 @@
-import React from "react";
-
 type SquareProps = {
+  // Props = Properties，母组件传给子组件的数据叫 属性
   value: string | null;
   onSquareClick: () => void;
 };
