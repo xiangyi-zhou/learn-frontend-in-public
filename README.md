@@ -108,11 +108,9 @@ Tools: [VS Code](https://code.visualstudio.com/), [Markdown](https://www.markdow
 <img src="./images/vscode screenshot.png" alt="VS code Screenshot" width="400">
 
 Extensions:  
-[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode),  
-[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer),  
-[Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), [Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)
 
-<img src="./images/comment-translate-screenshot.png" alt="comment-translate-screenshot" width="300">
+<img src="./images/comment-translate-screenshot.png" alt="comment-translate-screenshot" width="400">
 
 ### Debug
 
@@ -140,6 +138,7 @@ Extensions:
 
 **Sources of Inspiration**
 
+- [CodePen](https://codepen.io/) community for HTML, CSS and JavaScript code snippets
 - [Sharyap](https://www.sharyap.com/) — Illustrations, web design, YouTuber
 - [Wayback Machine](https://web.archive.org/) — Archive of past websites
 - [Ang’s Corner](https://angs-corner.nekoweb.org/) — Journal-style independent site

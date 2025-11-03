@@ -112,7 +112,7 @@ VScode 插件：
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer),
 [Comment Translate](https://marketplace.visualstudio.com/items?itemName=intellsmi.comment-translate)
 
-<img src="./images/comment-translate-screenshot.png" alt="comment-translate-screenshot" width="300">
+<img src="./images/comment-translate-screenshot.png" alt="comment-translate-screenshot" width="400">
 
 ### Debug 调试
 
@@ -132,7 +132,7 @@ VScode 插件：
 
 - [MDN Web Docs（HTML / CSS / JS）](https://developer.mozilla.org/)
 - [React 官方文档](https://react.dev/)
-  = [TypeScript 官方手册](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [TypeScript 官方手册](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 **AI 助手**
 
@@ -140,6 +140,7 @@ VScode 插件：
 
 **获得启发**
 
+- [CodePen](https://codepen.io/) HTML+CSS+JS 前端社区，很多炫酷好用的小组件
 - [Sharyap](https://www.sharyap.com/) 插画 | 网页设计 | Youtuber
 - [Wayback Machine](https://web.archive.org/) 记录过去的网站页面
 - [Ang’s Corner](https://angs-corner.nekoweb.org/) 手账样式，超酷的独立网站
